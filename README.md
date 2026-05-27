@@ -2,7 +2,7 @@
 
 **Effective Date:** May 27, 2026
 
-[Your Name or Your Studio Name] built the **[Your App Name]** app as a Free app. This SERVICE is provided by [Your Name or Your Studio Name] at no cost and is intended for use as is.
+[Your Name or Your Studio Name] built the **Little Tracers: ABC & 123** app as a Free app. This SERVICE is provided by [Your Name or Your Studio Name] at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
@@ -10,7 +10,7 @@ This page is used to inform visitors regarding policies with the collection, use
 
 ## 1. Information Collection and Use
 
-**[Your App Name] operates fully offline.**
+**Little Tracers: ABC & 123 operates fully offline.**
 
 * **No Server Storage:** The app does not require a user account, login, or any form of online registration.
 * **No Data Collection:** We do not collect, harvest, transmit, or store any personal data, device information, or usage statistics.
